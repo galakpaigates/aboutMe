@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
     const notice = document.getElementById("notice");
     const noticeH1 = document.getElementById("noticeH1");
-    const timeout = 500;
+    const timeout = 750;
     
     setTimeout(() => {
         notice.innerHTML = `<h1>Lol!</h1>`;
