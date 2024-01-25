@@ -67,6 +67,7 @@ header {
     overflow: auto;
     resize: both;
     object-fit: cover;
+    transform: translateX(180);
 }
 
 @media screen and (max-width: 645px) {
